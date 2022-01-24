@@ -1,2 +1,2 @@
 # dukt-bot
-A simple management bot built using voxelbotutils
+A simple management bot built using discord.js
